@@ -1,0 +1,182 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Priban-Michal-Vsechno-je-jenom-dvakrat",
+    "identifier": "urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b",
+    "author": "creator",
+    "publisher": "Host – vydavatelství, s. r. o.",
+    "language": "cs-CZ",
+    "published": "2016-10-19T12:04:32.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 11.3",
+    "cover": "cover.jpg"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/cover.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-1.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-2.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-3.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-4.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-5.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-6.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-7.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-8.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-9.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-10.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-11.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-12.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-13.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-14.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Priban-15.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/css/idGeneratedStyles.css"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/font/TabacG3-Italic.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/font/TabacG3.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/font/UrbanGroteskLiSe-Bold.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/font/UrbanGroteskReBo-Bold.otf"
+    },
+    {
+      "type": "image/jpeg",
+      "height": 900,
+      "width": 584,
+      "rel": "cover",
+      "href": "OEBPS/image/cover.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/divider.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/logo.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/image/titul.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "první kapitola",
+      "href": "OEBPS/Priban-5.xhtml#u48CbQeM3AOviJ3h3UH6wQC"
+    },
+    {
+      "title": "druhá kapitola",
+      "href": "OEBPS/Priban-6.xhtml#ugVCqBOvOGFi7JiDFWmTaU6"
+    },
+    {
+      "title": "třetí kapitola",
+      "href": "OEBPS/Priban-7.xhtml#uufkK5RFSQnPytCl9g4QHY5"
+    },
+    {
+      "title": "čtvrtá kapitola",
+      "href": "OEBPS/Priban-8.xhtml#uNBamUH5PmTI6TASYJMVWzB"
+    },
+    {
+      "title": "pátá kapitola",
+      "href": "OEBPS/Priban-9.xhtml#uGwHHiRKFKHn9lvHf7MYlIA"
+    },
+    {
+      "title": "šestá kapitola",
+      "href": "OEBPS/Priban-10.xhtml#uIj67tv6inoYVi9YIK5JBq6"
+    },
+    {
+      "title": "sedmá kapitola",
+      "href": "OEBPS/Priban-11.xhtml#u3LraLwH5NNKJeVgYqralPH"
+    },
+    {
+      "title": "osmá kapitola",
+      "href": "OEBPS/Priban-12.xhtml#uR2RiqvFPJrDzbAriZTLLmB"
+    },
+    {
+      "title": "devátá kapitola",
+      "href": "OEBPS/Priban-13.xhtml#uTwfxaMYFqAQrvYnobXb9GE"
+    },
+    {
+      "title": "desátá kapitola",
+      "href": "OEBPS/Priban-14.xhtml#ueZPdbt4GYcdNxtoAmSaXJE"
+    }
+  ],
+  "landmarks": [
+    {
+      "title": "Cover",
+      "href": "OEBPS/cover.xhtml"
+    },
+    {
+      "title": "Table of Contents",
+      "href": "OEBPS/Priban-3.xhtml#uAJIEAdKd2giEG9xZkQwtpC"
+    }
+  ]
+}
