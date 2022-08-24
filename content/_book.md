@@ -1,39 +1,42 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Priban-Michal-Vsechno-je-jenom-dvakrat
+  identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
+  author: creator
+  publisher: Host – vydavatelství, s. r. o.
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - cover.html
+  - priban.html
+  - priban-1.html
+  - priban-2.html
+  - priban-3.html
+  - priban-4.html
+  - priban-5.html
+  - priban-6.html
+  - priban-7.html
+  - priban-8.html
+  - priban-9.html
+  - priban-10.html
+  - priban-11.html
+  - priban-12.html
+  - priban-13.html
+  - priban-14.html
+  - priban-15.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
